@@ -15,8 +15,10 @@ male, 33 y.o.
 ## | Position |
  **Junior+ QA**  
 Specializations:
-- Testing
+- Web
 - Automation
+- Mobile (Android)
+- API
 
 
 ## | Employment | 
@@ -27,20 +29,6 @@ Specializations:
 ## | Experience |
 <!-- #### 3 years 7 months
 ###### | *2018 aug — present time, 3.5 years* | -->
-
-
- ##### **IZMIRAN**
-**_(The Pushkov Institute of Terrestrial Magnetism, Ionosphere  
-and Radiowave Propagation of the Russian Academy of Sciences)_**
-
- *2018 aug — present*  
-*position:* Lead Software Engineer
-- Testing and development database (MariaDB) of magnetic variations for several stations in an unstable Internet environment in the field
-- Support and regression testing of the site [http://spaceweather.izmiran.ru/](spaceweather.izmiran.ru)
-- Working with data from magnetic observatories, writing and testing processing scripts, compiling magnetic maps, working with geomagnetic field models
-- Space weather forecasting
-- Support of [moscow observatory site](http://serv.izmiran.ru/)
-![IZMIRAN forecast center](https://sun9-85.userapi.com/impf/E7zwIgT59zmLgTe-IQe1WEn2ZRzjvpDBijkl5w/V-mUlHJx2W0.jpg?size=1600x1200&quality=96&sign=94580b38ced443ed7bbec1d3234dadfa&type=album) *IZMIRAN forecast center*
 
 
  ##### **YANDEX.PRACTICUM**
@@ -58,6 +46,21 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 - *Working with DB:* Was compiling simple queries (SELECT, JOIN) to a remote server through the console. I worked with postgre and mariadb.
 
 - *Automation:* Wrote tests for web on JS with the puppeteer library.
+
+
+ ##### **IZMIRAN**
+**_(The Pushkov Institute of Terrestrial Magnetism, Ionosphere  
+and Radiowave Propagation of the Russian Academy of Sciences)_**
+
+ *2018 aug — present*  
+*position:* Lead Software Engineer
+- Testing and development database (MariaDB) of magnetic variations for several stations in an unstable Internet environment in the field
+- Support and regression testing of the site [http://spaceweather.izmiran.ru/](spaceweather.izmiran.ru)
+- Working with data from magnetic observatories, writing and testing processing scripts, compiling magnetic maps, working with geomagnetic field models
+- Space weather forecasting
+- Support of [moscow observatory site](http://serv.izmiran.ru/)
+![IZMIRAN forecast center](https://sun9-85.userapi.com/impf/E7zwIgT59zmLgTe-IQe1WEn2ZRzjvpDBijkl5w/V-mUlHJx2W0.jpg?size=1600x1200&quality=96&sign=94580b38ced443ed7bbec1d3234dadfa&type=album) *IZMIRAN forecast center*
+
 
 
 ## | Education |
