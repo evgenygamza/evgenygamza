@@ -5,7 +5,7 @@
 ### **Евгений Игоревич Гамза**
 male, 33 y.o.  
 +7 (926) 886-18-55  
-*telegram:* @telegamza — preferred communication method  
+*telegram:* [@telegamza](https://t.me/telegamza) — preferred communication method  
 *mailto:* [evgeny.gamza@gmail.com](mailto:evgeny.gamza@gmail.com)  
 *live in:* Troitsk, Moscow  
 *citizenship:* Russia  
