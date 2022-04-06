@@ -13,7 +13,7 @@ male, 33 y.o.
 
 
 ## | Position |
- **Junior+ QA**
+ **Junior+ QA**  
 Specializations:
 - Testing
 - Automation
