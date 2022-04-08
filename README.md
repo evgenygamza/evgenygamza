@@ -12,6 +12,7 @@ male, 33 y.o.
 *relocation:* possible  
 
 
+
 ## | Position |
  **Junior+ QA**  
 Specializations:
@@ -21,9 +22,11 @@ Specializations:
 - API
 
 
+
 ## | Employment | 
 *full-timeWork schedule:* remote work, flexible schedule, full-time  
 *Travel time to work:* does not matter
+
 
 
 ## | Experience |  
@@ -66,7 +69,9 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
  **Higher**
 ##### 2018 - **Sergo Ordzhonikidze Russian State University for Geological Prospecting** 
 ###### Faculty of Geophysics
-##### 2022 - **Course «Testing engineer» of yandex**
+##### 2021 - **Course «Testing engineer» of yandex**
+##### 2022 - **Course «Automation of testing with Selenium and Python» of stepik**
+
 
 
 ## | Key skills |
@@ -75,8 +80,11 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 - English — B2 — Independent
 - German — A1 — Basic
 
+
 ##### Skills 
- `Python` `JS` `SQL` `HTML` `Atlassian Jira` `Bash` `curl` `Git` `postman` `charles`  
- `Selenium WD` `Cypress` `js puppeteer` `Android SDK` `JSON API` `XML` `REST` `SOAP`
+ `Python` `js` `sql` `css` `jira` `bash` `curl` `git` `postman` `charles`  
+ `selenium wd` `cypress` `js puppeteer` `fndroid sdk` `json api` `xml` `rest` `soap`
+ 
+ 
 ##### Driving experience
 - License category B, 10 years of experience
