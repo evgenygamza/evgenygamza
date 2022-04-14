@@ -17,7 +17,7 @@ male, 33 y.o.
  **Junior+ QA**  
 Specializations:
 - Web
-- Automation
+- Automation (Selenium/Python)
 - Mobile (Android)
 - API
 
@@ -83,7 +83,7 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 
 ##### Skills 
  `Python` `js` `sql` `css` `jira` `bash` `curl` `git` `postman` `charles`  
- `selenium wd` `cypress` `js puppeteer` `fndroid sdk` `json api` `xml` `rest` `soap`
+ `selenium wd` `cypress` `js puppeteer` `android sdk` `json api` `xml` `rest` `soap`
  
  
 ##### Driving experience
