@@ -67,9 +67,10 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 
 ## | Education |
  **Higher**
-##### 2022 - **Course «Automation of testing with Selenium and Python» of stepik**
-##### 2021 - **Course «Testing engineer» of yandex**
-##### 2018 - **Sergo Ordzhonikidze Russian State University for Geological Prospecting** 
+##### 2022 - **[Course «Automation of testing with Selenium and Python» of stepik](https://stepik.org/cert/1495756
+)**
+##### 2021 - **[Course «Testing engineer» of yandex](https://disk.yandex.ru/i/29oF4-W8fe666A)**
+##### 2018 - **[Sergo Ordzhonikidze Russian State University for Geological Prospecting](https://disk.yandex.ru/i/14BA7Gbfzxekvg)** 
 ###### Faculty of Geophysics
 
 
