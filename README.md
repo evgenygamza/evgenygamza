@@ -14,7 +14,7 @@ male, 33 y.o.
 
 
 ## | Position |
- **Junior+ QA automation**  
+ **QA automation**  
 Specializations:
 - Web
 - Automation (Selenium/Python)
@@ -30,6 +30,33 @@ Specializations:
 
 
 ## | Experience |  
+
+##### **OZON TECH**
+*2022 aug - present*
+*position:* QA engineer (middle)
+- development and support test environments for several microservices (Python and Go projects)
+- support frontend test suites (codeceptjs)
+- manual testing
+- performance testing and ci tuning
+
+
+ ##### **IZMIRAN**
+**_(The Pushkov Institute of Terrestrial Magnetism, Ionosphere  
+and Radiowave Propagation of the Russian Academy of Sciences)_**
+
+ *2018 aug — 2022 aug*  
+*position:* Lead Software Engineer
+- Testing and development database (MariaDB) of magnetic variations for several stations in an unstable Internet environment in the field
+
+- Support and regression testing of the site [http://spaceweather.izmiran.ru/](spaceweather.izmiran.ru)
+
+- Working with data from magnetic observatories, writing and testing processing scripts, compiling magnetic maps, working with geomagnetic field models
+
+- Space weather forecasting
+
+- Support of [moscow observatory site](http://serv.izmiran.ru/)
+![IZMIRAN forecast center](https://sun9-85.userapi.com/impf/E7zwIgT59zmLgTe-IQe1WEn2ZRzjvpDBijkl5w/V-mUlHJx2W0.jpg?size=1600x1200&quality=96&sign=94580b38ced443ed7bbec1d3234dadfa&type=album) *IZMIRAN forecast center*
+
 ##### **YANDEX.PRACTICUM**
 *2021 sep — 2022 mar*  
 *position:* QA Engineer (student)
@@ -45,23 +72,6 @@ Specializations:
 
 - *Automation:* Wrote [tests](https://drive.google.com/file/d/1a1DyOqGMLZv0m-7DBhLo59oA5SY6GTjb/view?usp=sharing) for web on JS with the puppeteer library.
 
-
- ##### **IZMIRAN**
-**_(The Pushkov Institute of Terrestrial Magnetism, Ionosphere  
-and Radiowave Propagation of the Russian Academy of Sciences)_**
-
- *2018 aug — present*  
-*position:* Lead Software Engineer
-- Testing and development database (MariaDB) of magnetic variations for several stations in an unstable Internet environment in the field
-
-- Support and regression testing of the site [http://spaceweather.izmiran.ru/](spaceweather.izmiran.ru)
-
-- Working with data from magnetic observatories, writing and testing processing scripts, compiling magnetic maps, working with geomagnetic field models
-
-- Space weather forecasting
-
-- Support of [moscow observatory site](http://serv.izmiran.ru/)
-![IZMIRAN forecast center](https://sun9-85.userapi.com/impf/E7zwIgT59zmLgTe-IQe1WEn2ZRzjvpDBijkl5w/V-mUlHJx2W0.jpg?size=1600x1200&quality=96&sign=94580b38ced443ed7bbec1d3234dadfa&type=album) *IZMIRAN forecast center*
 
 
 
