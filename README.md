@@ -3,11 +3,12 @@
 
 # **Evgeny Igorevitch Gamza**
 ### **Евгений Игоревич Гамза**
-male, 33 y.o.  
-+7 (926) 886-18-55  
+male, 34 y.o.  
++995 599 167 269
 *telegram:* [@telegamza](https://t.me/telegamza) — preferred communication method  
-*mailto:* [evgeny.gamza@gmail.com](mailto:evgeny.gamza@gmail.com)  
-*live in:* Troitsk, Moscow  
+*mailto:* [evgeny.gamza@gmail.com](mailto:evgeny.gamza@gmail.com)
+*linkedin* [Evgeny Gamza](https://www.linkedin.com/in/evgeny-gamza-ba7b60b5/)
+*live in:* Batumi, Georgia
 *citizenship:* Russia  
 *relocation:* possible  
 
@@ -16,15 +17,16 @@ male, 33 y.o.
 ## | Position |
  **QA automation**  
 Specializations:
-- Web
-- Automation (Selenium/Python)
+- Automation (Selenium/Python, Go, codeceptjs)
+- API testing (grpc, http)
+- Performance testing
+- Web testing
 - Mobile (Android)
-- API
 
 
 
 ## | Employment | 
-*full-timeWork schedule:* remote work, flexible schedule, full-time  
+*full-time work schedule:* remote work, flexible schedule, full-time  
 *Travel time to work:* does not matter
 
 
@@ -60,7 +62,7 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 ##### **YANDEX.PRACTICUM**
 *2021 sep — 2022 mar*  
 *position:* QA Engineer (student)
-- *Work with technical requirements:* analysis of documentation, search for gray areas and inaccuracies. *Test analysis:* decomposition techniques, drawing [mindmaps](https://drive.google.com/file/d/13kwm2PoHyElWTlQVg6hBp9nPXu2wscqk/view?usp=sharing) for the product and [flowcharts](https://drive.google.com/file/d/1UQfErO6hzyhTBvK14XIQErt4Oq4lrln-/view?usp=sharing).*Test design:* assembling test suites and checklists using equivalence partition and boundary values. Optimization with decision tables. Creating [test cases](https://docs.google.com/spreadsheets/d/1y0ed710dZwNndcMtHTV1c8blYFlotOwzLKXHmIkcmFc/edit#gid=1058266973) and testing them myself.
+- *Work with technical requirements:* analysis of documentation, search for gray areas and inaccuracies. *Test analysis:* decomposition techniques, drawing [mindmaps](https://drive.google.com/file/d/13kwm2PoHyElWTlQVg6hBp9nPXu2wscqk/view?usp=sharing) for the product and [flowcharts](https://drive.google.com/file/d/1UQfErO6hzyhTBvK14XIQErt4Oq4lrln-/view?usp=sharing). *Test design:* assembling test suites and checklists using equivalence partition and boundary values. Optimization with decision tables. Creating [test cases](https://docs.google.com/spreadsheets/d/1y0ed710dZwNndcMtHTV1c8blYFlotOwzLKXHmIkcmFc/edit#gid=1058266973) and testing them myself.
 
 - *Web testing:* a training version of Yandex.maps (with carsharing and air taxi) was used as a working project. My tasks included testing the layout of the service and its sections. Part of the functionality was finished and tho other part  was implemented only on the frontend. In the latter case I used Charles to emulate responses from the backend. Adaptive layout I tested with devtools and mobile browser. Here's [summary report](https://docs.google.com/spreadsheets/d/1AaOP7C4pVljzFBiFbbYMbq8CUknph05CCGWhQMVEKDA/edit#gid=899462569)
 
@@ -70,7 +72,7 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 
 - *Working with DB:* Was compiling [simple queries](https://docs.google.com/document/d/1mlVwpGQUREIwg53ZmgDTgvU8gFpoeSrrvATF3oDJ2S8/edit) (SELECT, JOIN) to a remote server through the console. I worked with postgre and mariadb.
 
-- *Automation:* Wrote [tests](https://drive.google.com/file/d/1a1DyOqGMLZv0m-7DBhLo59oA5SY6GTjb/view?usp=sharing) for web on JS with the puppeteer library.
+- *Automation:* Wrote [tests](https://github.com/evgenygamza/evgenygamza/blob/main/puppeteer_visual_test_example.js) for web on JS with the puppeteer library.
 
 
 
@@ -88,13 +90,12 @@ and Radiowave Propagation of the Russian Academy of Sciences)_**
 ## | Key skills |
 ##### Languages
 - Russian — Native
-- English — B2 — Independent
+- English — B2 — Intermediate
 - German — A1 — Basic
 
 
 ##### Skills 
- `Python` `pytest` `selenium wd` `sql` `jira` `bash` `curl` `git` `json api` `rest` `soap` `postman` `charles`  
-  `js` `cypress` `js puppeteer` `android sdk` `css` `xml`
+ `python` `pytest` `selenium wd` `go tests` `sql` `jira` `curl` `git` `rest` `codecptjs puppeteer` `cypress` `android sdk`
  
  
 ##### Driving experience
