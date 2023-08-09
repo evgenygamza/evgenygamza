@@ -4,11 +4,11 @@
 # **Evgeny Igorevitch Gamza**
 ### **Евгений Игоревич Гамза**
 male, 34 y.o.  
-+995 599 167 269
++995 599 167 269  
 *telegram:* [@telegamza](https://t.me/telegamza) — preferred communication method  
-*mailto:* [evgeny.gamza@gmail.com](mailto:evgeny.gamza@gmail.com)
+*mailto:* [evgeny.gamza@gmail.com](mailto:evgeny.gamza@gmail.com)  
 *linkedin* [Evgeny Gamza](https://www.linkedin.com/in/evgeny-gamza-ba7b60b5/)
-*live in:* Batumi, Georgia
+*live in:* Batumi, Georgia  
 *citizenship:* Russia  
 *relocation:* possible  
 
@@ -17,11 +17,11 @@ male, 34 y.o.
 ## | Position |
  **QA automation**  
 Specializations:
-- Automation (Selenium/Python, Go, codeceptjs)
+- Automation (Selenium/Python, Go tests, codeceptjs)
 - API testing (grpc, http)
 - Performance testing
 - Web testing
-- Mobile (Android)
+- Mobile testing
 
 
 
