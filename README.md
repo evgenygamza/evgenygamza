@@ -3,7 +3,7 @@
 
 # **Evgeny Igorevitch Gamza**
 ### **Евгений Игоревич Гамза**
-male, 34 y.o.  
+male, 37 y.o.  
 +995 599 167 269  
 *telegram:* [@telegamza](https://t.me/telegamza) — preferred communication method  
 *mailto:* [evgeny.gamza@gmail.com](mailto:evgeny.gamza@gmail.com)  
@@ -33,8 +33,14 @@ Specializations:
 
 ## | Experience |  
 
+##### **PLATA CARD**
+*2024 jul - 2025 oct*
+*position:* QA engineer (GO)
+- development and support test environments for core finance systems
+- manual testing
+
 ##### **OZON TECH**
-*2022 aug - present*
+*2022 aug - 2024 may*
 *position:* QA engineer (middle)
 - development and support test environments for several microservices (Python and Go projects)
 - support frontend test suites (codeceptjs)
