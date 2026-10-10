@@ -1,14 +1,14 @@
 # Evgeny Gamza
 
-<p align="right">
-  <img src="https://raw.githubusercontent.com/evgenygamza/evgenygamza/main/assets/profile.jpg" alt="Evgeny Gamza" width="240">
-</p>
+<img src="https://raw.githubusercontent.com/evgenygamza/evgenygamza/main/assets/profile.jpg" alt="Evgeny Gamza" width="240" align="right">
 
 **Senior QA Automation Engineer / SDET**
 
 Tbilisi, Georgia
 
 [Email](mailto:evgeny.gamza@gmail.com) · [Telegram](https://t.me/telegamza) · [LinkedIn](https://www.linkedin.com/in/evgeny-gamza-ba7b60b5/) · [GitHub](https://github.com/evgenygamza)
+
+<br clear="all">
 
 ## Professional Summary
 
