@@ -1,8 +1,9 @@
+# Evgeny Gamza
+
 <p align="right">
   <img src="https://raw.githubusercontent.com/evgenygamza/evgenygamza/main/assets/profile.jpg" alt="Evgeny Gamza" width="240">
 </p>
 
-# Evgeny Gamza
 **Senior QA Automation Engineer / SDET**
 
 Tbilisi, Georgia
