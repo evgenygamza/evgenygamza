@@ -17,11 +17,11 @@ QA Automation Engineer with 5+ years of combined software engineering and QA exp
 ## Technical Skills
 
 - **Languages:** Python, Go, SQL
-- **Automation:** pytest, Gomega, Allure, Selenium, Playwright, CodeceptJS
+- **Automation:** pytest, Gomega, Allure, Selenium, Playwright
 - **Testing:** API, integration, regression, performance
-- **Backend:** REST, gRPC, Kafka, microservices, distributed systems
+- **Backend:** REST, GraphQL, gRPC, Kafka, microservices, distributed systems
 - **Databases:** PostgreSQL, MariaDB
-- **Tools:** Git, Docker, Jenkins, CI/CD, Linux
+- **Tools:** Git, Docker, Jenkins, CI/CD
 
 ## Professional Experience
 
@@ -55,7 +55,7 @@ Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagatio
 
 - Developed and maintained scientific software and scripts for processing geomagnetic observations.
 - Developed and tested a MariaDB database for observations from multiple stations operating with unreliable connectivity.
-- Maintained scientific services, websites, and monitoring systems in Linux environments.
+- Maintained scientific services, websites, and monitoring systems.
 - Performed regression testing and worked with scientific datasets and geomagnetic field models.
 
 ## Selected Projects
