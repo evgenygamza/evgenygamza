@@ -1,52 +1,54 @@
 # Evgeny Gamza
 
-<img src="https://raw.githubusercontent.com/evgenygamza/evgenygamza/main/assets/profile.jpg" alt="Evgeny Gamza" width="240" align="right">
+![Evgeny Gamza](assets/cv-profile.jpg)
 
-**Senior QA Automation Engineer / SDET**
+**AQA | SDET**
 
 Tbilisi, Georgia
 
-[Email](mailto:evgeny.gamza@gmail.com) · [Telegram](https://t.me/telegamza) · [LinkedIn](https://www.linkedin.com/in/evgeny-gamza-ba7b60b5/) · [GitHub](https://github.com/evgenygamza)
-
-<br clear="all">
+[Email](mailto:evgeny.gamza@gmail.com) · [Telegram](https://t.me/telegamza) · [LinkedIn](https://www.linkedin.com/in/evgeny-gamza-ba7b60b5/) · [GitHub](https://github.com/evgenygamza) · [PDF CV](Evgeny_Gamza_CV.pdf)
 
 ## Professional Summary
 
-QA Automation Engineer with 5+ years of combined software engineering and QA experience. Focused on backend test automation with Python and Go, API and integration testing, and investigating failures across distributed systems. Experience in financial processing, e-commerce microservices, and scientific data processing.
+QA Automation Engineer / SDET with 5+ years of combined software engineering and QA experience, focused on backend automation, API and integration testing, and quality in distributed systems. Builds automation projects from the ground up and integrates them into CI/CD. Selects test levels and techniques based on product risks, and shapes frameworks, test data, reporting, and workflows for team use. Experience spans financial processing, e-commerce microservices, and scientific software. Also works with prompt testing and uses AI tools to support test creation and analysis, validating their output.
 
 ## Technical Skills
 
 - **Languages:** Python, Go, SQL
-- **Automation:** pytest, Gomega, Allure, Selenium, Playwright
-- **Testing:** API, integration, regression, performance
-- **Backend:** REST, GraphQL, gRPC, Kafka, microservices, distributed systems
-- **Databases:** PostgreSQL, MariaDB
-- **Tools:** Git, Docker, Jenkins, CI/CD
+- **Automation:** pytest, Gomega, Allure, Selenium, Playwright, CodeceptJS
+- **Testing:** API, integration, regression, performance, prompt testing
+- **Backend and messaging:** REST, GraphQL, gRPC, Kafka, microservices, distributed systems
+- **Databases and cache:** PostgreSQL, MariaDB, Redis
+- **Infrastructure and CI/CD:** Docker, Kubernetes, GitLab CI, Jenkins, pyinfra
+- **Performance and service virtualization:** Yandex.Tank, WireMock
+- **Version control:** Git
 
 ## Professional Experience
 
-### Fanjara rock+ bar — Founder & Owner
-September 2025 – September 2026
+### TradingView — Senior Quality Assurance Automation Engineer
+May 2026 – October 2026
 
-- Founded and operated a hospitality business, introducing a new brand and concept at an existing bar location.
+- Built test automation projects from the ground up and integrated them into CI/CD workflows.
+- Selected test levels and techniques based on product risks; structured frameworks, test data, reporting, and workflows for team use.
+- Worked on prompt testing and used AI tools to support test creation and analysis, carefully validating their output.
 
 ### PLATA / Diftech — QA Automation Engineer
 July 2024 – October 2025
 
-- Developed integration tests in Go using Gomega and Allure for a financial processing platform.
-- Tested backend microservices communicating through gRPC, REST, and Kafka, working extensively with PostgreSQL.
+- Developed Go integration tests with Gomega and Allure for a financial processing platform.
+- Tested backend microservices and service integrations over gRPC, REST, and Kafka, using PostgreSQL for data checks.
 - Covered payment processing, card management, subscriptions, insurance services, and ISO 8583-related functionality.
-- Participated in integration and migration testing involving Phoenix and Galileo processing systems.
-- Investigated failures across distributed services and worked with CI/CD pipelines for automated test execution.
+- Tested integrations and migrations involving Phoenix and Galileo processing systems.
+- Investigated failures across distributed services and maintained automated test execution in CI/CD pipelines.
 
 ### Ozon Tech — QA Automation Engineer
 August 2022 – May 2024
 
-- Built API test automation from scratch using Python and pytest for backend microservices.
-- Worked with integration tests written in Go.
-- Developed and maintained UI tests using Selenium/Python and CodeceptJS.
-- Performed API, integration, regression, and performance testing.
-- Used SQL for backend testing and worked with CI/CD in a distributed microservice environment.
+- Built an API automation suite from scratch with Python and pytest for backend microservices.
+- Contributed to integration testing with Go.
+- Developed and maintained UI automation using Selenium with Python and CodeceptJS.
+- Performed API, integration, regression, and performance testing across a distributed microservice environment.
+- Used SQL to validate backend data and integrated automated checks into CI/CD.
 
 ### IZMIRAN — Lead Software Engineer
 August 2018 – August 2022
@@ -54,26 +56,9 @@ August 2018 – August 2022
 Pushkov Institute of Terrestrial Magnetism, Ionosphere and Radio Wave Propagation.
 
 - Developed and maintained scientific software and scripts for processing geomagnetic observations.
-- Developed and tested a MariaDB database for observations from multiple stations operating with unreliable connectivity.
+- Designed and tested a MariaDB database for observations collected from multiple stations, including stations with unreliable connectivity.
 - Maintained scientific services, websites, and monitoring systems.
-- Performed regression testing and worked with scientific datasets and geomagnetic field models.
-
-## Selected Projects
-
-### Weather API & Database Tests
-[Source code](https://github.com/evgenygamza/pango-automation-interview-questions)
-
-Python/pytest project combining weather API requests with database operations and checks of stored data. Includes API and database helpers, fixtures, parametrized tests, and a GitHub Actions workflow.
-
-### TenK — Practice Tracker
-[Source code](https://github.com/evgenygamza/tenk)
-
-Flutter application for tracking practice sessions. Includes tests for session creation, editing, deletion, and persistence through a fake repository, along with widget smoke tests and CI test execution.
-
-### Queue Monitoring Bot
-[Source code](https://github.com/evgenygamza/emb_queue_stander)
-
-Python automation project combining Playwright browser interactions, a Telegram bot, and database integration to check and maintain a consular waiting-list position. Includes Docker packaging and a GitHub Actions image build workflow.
+- Performed regression testing and validated scientific datasets and geomagnetic field models.
 
 ## Education
 
