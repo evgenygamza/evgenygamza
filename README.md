@@ -28,9 +28,12 @@ QA Automation Engineer / SDET with 5+ years of combined software engineering and
 ### TradingView — Senior Quality Assurance Automation Engineer
 May 2026 – October 2026
 
-- Built test automation projects from the ground up and integrated them into CI/CD workflows.
-- Selected test levels and techniques based on product risks; structured frameworks, test data, reporting, and workflows for team use.
-- Worked on prompt testing and used AI tools to support test creation and analysis, carefully validating their output.
+- Developed an AI-powered investigation skill using MCP tools to query databases, search internal and FactSet documentation, and trace data quality issues to their source.
+- Automated repetitive data investigations, reducing manual triage time.
+- Communicated with FactSet to investigate and resolve vendor-side data issues.
+- Created tests for new data-related tasks and automated help desk workflows with a bot.
+- Built a bot to detect invalid data and route it to the acceptance queue for review.
+- Investigated data quality issues across ETL (Extract, Transform, Load) workflows.
 
 ### PLATA / Diftech — QA Automation Engineer
 July 2024 – October 2025
