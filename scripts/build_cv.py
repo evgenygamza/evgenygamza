@@ -31,9 +31,9 @@ def inline_markup(text):
 
 def build():
     styles = getSampleStyleSheet()
-    styles.add(ParagraphStyle(name="Name", parent=styles["Title"], fontName="Helvetica-Bold", fontSize=21, leading=25, alignment=TA_CENTER, textColor=colors.HexColor("#172b4d"), spaceAfter=3))
-    styles.add(ParagraphStyle(name="Headline", parent=styles["Normal"], fontSize=12, leading=15, alignment=TA_CENTER, textColor=colors.HexColor("#2367a5"), spaceAfter=5))
-    styles.add(ParagraphStyle(name="Contact", parent=styles["Normal"], fontSize=8.5, leading=11, alignment=TA_CENTER, textColor=colors.HexColor("#49566a"), spaceAfter=12))
+    styles.add(ParagraphStyle(name="Name", parent=styles["Title"], fontName="Helvetica-Bold", fontSize=21, leading=25, alignment=0, textColor=colors.HexColor("#172b4d"), spaceAfter=3))
+    styles.add(ParagraphStyle(name="Headline", parent=styles["Normal"], fontSize=12, leading=15, alignment=0, textColor=colors.HexColor("#2367a5"), spaceAfter=5))
+    styles.add(ParagraphStyle(name="Contact", parent=styles["Normal"], fontSize=8.5, leading=11, alignment=0, textColor=colors.HexColor("#49566a"), spaceAfter=12))
     styles.add(ParagraphStyle(name="Section", parent=styles["Heading2"], fontName="Helvetica-Bold", fontSize=12, leading=15, textColor=colors.HexColor("#2367a5"), spaceBefore=9, spaceAfter=4, keepWithNext=True))
     styles.add(ParagraphStyle(name="Role", parent=styles["Heading3"], fontName="Helvetica-Bold", fontSize=10, leading=12, textColor=colors.HexColor("#172b4d"), spaceBefore=5, spaceAfter=2, keepWithNext=True))
     styles.add(ParagraphStyle(name="BodyCV", parent=styles["BodyText"], fontName="Helvetica", fontSize=8.6, leading=11.4, textColor=colors.HexColor("#222b38"), spaceAfter=3))
@@ -51,14 +51,14 @@ def build():
         if raw.startswith("<img "):
             continue
         if raw.startswith("!["):
+            if PHOTO.exists():
+                photo = Image(str(PHOTO), width=27*mm, height=27*mm)
+                photo.hAlign = "LEFT"
+                story.append(photo)
+                story.append(Spacer(1, 2*mm))
             continue
         if raw.startswith("# "):
             name = raw[2:].strip()
-            if PHOTO.exists():
-                photo = Image(str(PHOTO), width=27*mm, height=27*mm)
-                photo.hAlign = "CENTER"
-                story.append(photo)
-                story.append(Spacer(1, 2*mm))
             story.append(Paragraph(inline_markup(name), styles["Name"]))
             continue
         if raw.startswith("**") and raw.endswith("**") and in_header:
